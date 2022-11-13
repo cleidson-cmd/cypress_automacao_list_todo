@@ -1,0 +1,6 @@
+
+# Files and directories created by pub.
+cypress/download/
+cypress/fixtures/
+cypress/support/
+node_modules/
